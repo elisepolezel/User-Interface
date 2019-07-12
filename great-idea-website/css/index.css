@@ -64,3 +64,54 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+/* nav bar */
+.navigation {
+	margin: 0px auto;
+	width: 600px;
+	left: 0px;
+	top: 20px;
+	position: absolute;
+	display: inline;
+	float: left;
+
+	font-family: 'Titillium Web';
+  	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	color: grey;
+}
+
+.navigation a {
+	padding: 10px;
+}
+
+.logo {
+	margin: 0px auto;
+	border-radius: 0px;
+	top: 20x;
+	right: 20px;
+	display: inline;
+	float: right;
+}
+
+/* main title */
+.title1 {
+	margin: 200px auto;
+	width: 400px;
+	height: 200px;
+	padding: 10px;
+	background: yellow;
+	align-items: center;
+	align-content: flex-start;
+	
+	font-family: 'Bangers';
+  	font-style: normal;
+	font-weight: 400;
+	font-size: 60px;
+	text-align: center;
+}
+
+
+
+/* Body */
